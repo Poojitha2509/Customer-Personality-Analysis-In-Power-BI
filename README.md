@@ -18,5 +18,5 @@ Customer Personality Analysis to gain deeper insights into customer behaviors, p
 - The Customers are mostly buying wine when compared to other items.
 - Most of the Customers are Visiting the store to purchase rather than buying online.
 # Conclusion
-- Better customer understanding: We know our customers' behavior and preferences.
+- Better customer understanding: We know our customers behavior and preferences.
 - Improved campaign performance: We can optimize our campaigns for better results.
