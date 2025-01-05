@@ -1,2 +1,4 @@
 # Customer-Personality-Analysis-In-Power-BI
-Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+## Project Objective
+Customer Personality Analysis to gain deeper insights into customer behaviors, preferences and personalized customer experiences that drive loyalty, retention, and revenue growth.
+# Dataset Used
