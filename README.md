@@ -12,3 +12,6 @@ Customer Personality Analysis to gain deeper insights into customer behaviors, p
 - Exported the Dashboard.
 # Dashboard
 ![Customer Personality Analysis In Power BI](https://github.com/user-attachments/assets/9f8debc2-e40d-4342-9da9-18d4455c5cec)
+# Project Insight
+- The Count of Customers are more in the year of 2013, when compared to 2012 and 2014.
+- 
