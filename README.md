@@ -12,4 +12,3 @@ Customer Personality Analysis to gain deeper insights into customer behaviors, p
 - Exported the Dashboard.
 # Dashboard
 ![Uploading Customer Personality Analysis In Power BI.png…]()
-https://github.com/Poojitha2509/Customer-Personality-Analysis-In-Power-BI/blob/main/Customer%20Personality%20Analysis%20In%20Power%20BI.png
