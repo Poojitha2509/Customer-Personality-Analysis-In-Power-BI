@@ -11,4 +11,4 @@ Customer Personality Analysis to gain deeper insights into customer behaviors, p
 - Added New Column and Calculated the age of Customers.
 - Exported the Dashboard.
 # Dashboard
-(![Customer Personality Analysis In Power BI](https://github.com/user-attachments/assets/9f8debc2-e40d-4342-9da9-18d4455c5cec))
+![Customer Personality Analysis In Power BI](https://github.com/user-attachments/assets/9f8debc2-e40d-4342-9da9-18d4455c5cec)
